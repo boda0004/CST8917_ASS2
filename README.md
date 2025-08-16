@@ -111,7 +111,7 @@ Direct competitors of high throughput event ingestion are Event Hubs and Kinesis
 ---
 
 
-## 📊 Strengths & Weaknesses Summary
+##  Strengths & Weaknesses Summary
 
 | Service          | Azure Strengths | Azure Weaknesses | AWS Strengths | AWS Weaknesses | GCP Strengths | GCP Weaknesses |
 |------------------|-----------------|------------------|---------------|----------------|---------------|----------------|
@@ -124,7 +124,7 @@ Direct competitors of high throughput event ingestion are Event Hubs and Kinesis
 
 ---
 
-##Conclusion
+## Conclusion
 All the cloud providers have a close analogy of the Azure serverless services. Key takeaways:
 
 - **Azure**: Powerful on enterprise workflows, powerful connectors and hybrid.  
